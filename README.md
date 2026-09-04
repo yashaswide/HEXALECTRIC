@@ -781,16 +781,18 @@ to create a scalable urban road-intelligence platform.
 
 **Project:** HEXALECTRIC
 
-**Team:** `<YOUR TEAM NAME>`
+**Team:** `HEXALECTRIC`
 
 | Member   | Role                         |
 | -------- | ---------------------------- |
-| `<Name>` | AI / Computer Vision         |
-| `<Name>` | Backend / Database           |
-| `<Name>` | Frontend / GIS               |
-| `<Name>` | ML / Data Analytics          |
-| `<Name>` | Integration / Testing        |
-| `<Name>` | Documentation / Presentation |
+| `PARNA KARMAKAR` | AI / Computer Vision         |
+| `YASHASWI DE` |  Database  [MONGO DB]         |
+| `ARNAB DAS + ANIRBAN PAL + HIMAN SINGHA ROY ` | Frontend                |
+| `PARNA KARMAKAR` | ML / Data Analytics          |
+| `ANIRBAN PAL` | Integration / Testing        |
+| `SANJOLI ROY` | Documentation / Presentation |
+| `SANJOLI ROY` | API Integration |
+| `HIMAN SINGHA ROY` | GIS |
 
 ---
 
